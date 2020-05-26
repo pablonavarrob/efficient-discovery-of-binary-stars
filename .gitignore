@@ -1,0 +1,9 @@
+.DS_store
+*.pyc
+data/
+figures/
+__pycache__/
+*.png
+*.jpg
+*.csv
+*.out
